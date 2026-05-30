@@ -47,6 +47,6 @@ end
 ```
 
 ## Tools
-- Simulator: ModelSim / VCS (hoặc tool bạn dùng)
+- Simulator: Xilinx Vivado
 - Language: SystemVerilog, UVM
 
